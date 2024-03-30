@@ -1,6 +1,6 @@
 # To-Do List Application
 
-This is a simple To-Do List application written in Python. The application allows users to manage their tasks by adding, removing, and displaying both completed and to-be completedmtasks.
+This is a simple To-Do List application written in Python. The application allows users to manage their tasks by adding, removing, and displaying both completed and to-be completed tasks.
 
 ## Features
 
