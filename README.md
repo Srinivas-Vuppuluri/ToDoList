@@ -7,7 +7,7 @@ This is a simple To-Do List application written in Python. The application allow
 - Display To-Do List 
 - Add a new task
 - Remove a task
-- Mark a task as complete
+- Mark a task as completed
 - Exit
 
 ## Usage
