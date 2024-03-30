@@ -15,4 +15,4 @@ This is a simple To-Do List application written in Python. The application allow
 Clone the repository:
 
    ```bash
-   git clone ([https://github.com/Srinivas-Vuppuluri/ToDoList])
+   github link: ([https://github.com/Srinivas-Vuppuluri/ToDoList])
